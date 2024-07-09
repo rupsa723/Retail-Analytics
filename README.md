@@ -97,8 +97,8 @@ Key strategies include targeting high-value customer segments, implementing excl
 
 ## Files
 
-- [Quantium's retail analytics report (PDF)](./path/to/Quantium's_retail_analytics.pdf)
-- [Chip Sales Analysis Presentation (PPT)](./path/to/Chip_sales_analysis_presentation.pptx)
+- [Quantium's retail analytics report (PDF)](./path/to/retail-analytics.pdf)
+- [Chip Sales Analysis Presentation (PPT)](./path/to/Chip-sales-analysis-presentation.pdf)
 
 ## License
 This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to the original author.
