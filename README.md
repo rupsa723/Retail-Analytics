@@ -96,7 +96,7 @@ The primary objective is to deliver actionable insights to optimize marketing st
 Key strategies include targeting high-value customer segments, implementing exclusive offers and loyalty programs, and engaging customers through personalized communication and social media campaigns. The implementation timeline includes short-term, mid-term, and long-term strategies to improve customer satisfaction, boost sales, and enhance loyalty.
 
 ## Files
-- Data: `Dataset`
+- Data: `QVI_purchase_behavior.csv` , `QVI_transaction_data.xlsx`
 - Retail analytics report (PDF): `retail-analytics.pdf`
 - Chip Sales Analysis Presentation (PPT):`Chip-sales-analysis-presentation.pdf`
 
