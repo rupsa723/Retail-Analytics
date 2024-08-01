@@ -17,7 +17,7 @@ This project presents a comprehensive analysis of the chip sales market, utilizi
 - [SWOT Analysis](#swot-analysis)
 - [Timeline for Strategic Implementation](#timeline-for-strategic-implementation)
 - [Summary](#summary)
-
+- [Contact Information](#contact-information)
 ## Introduction
 
 This retail analytics report offers a comprehensive analysis of customer buying habits in the chip category, utilizing transaction and behavior data to reveal insights for strategic decision-making.
